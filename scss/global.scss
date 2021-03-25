@@ -9,27 +9,6 @@
 // `$body-color` or write more CSS that override's Bootstrap's CSS like so:
 // `body { color: red; }`.
 
-// Customised colour palette
-$heading-text-colour: #F1ECDF;  // Beige
-$highlight-colour: #E38669;     // Bright orange
-$body-bg: #9D4019;              // RED
-$body-text-colour: #F1ECDF;     // Dark colour for text
-$secondary-highlight: #F0D8B6;  //Secondary highlight colour
-
-body { 
-    background-color: $body-text-colour;
-}
-
-h1, h2, h3, h4 {
-    color: $heading-text-colour;
-}
-
-
-
-.navbar {
-    background-color: red;
-}
-
 //
 // Bring in Bootstrap
 //
@@ -95,3 +74,23 @@ $border-radius: .4rem;
 // @import "bootstrap/scss/print";
 
 
+// Customised colour palette
+$heading-text-colour: #F1ECDF;  // Beige
+$highlight-colour: #E38669;     // Bright orange
+$body-bg: #9D4019;              // RED
+$body-text-colour: #F1ECDF;     // Dark colour for text
+$secondary-highlight: #F0D8B6;  //Secondary highlight colour
+
+body { 
+    background-color: $body-text-colour;
+}
+
+h1, h2, h3, h4 {
+    color: $heading-text-colour;
+}
+
+
+
+.navbar {
+    background-color: red;
+}
