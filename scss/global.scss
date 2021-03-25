@@ -17,18 +17,17 @@ $body-text-colour: #F1ECDF;     // Dark colour for text
 $secondary-highlight: #F0D8B6;  //Secondary highlight colour
 
 body{ 
-    background-color: $body-text-colour
+    background-color: $body-text-colour;
 }
 
-h1, h2, h3, h4, lead {
-    color: $heading-text-colour
-
+h1, h2, h3, h4 {
+    color: $heading-text-colour;
 }
 
 
 
 bg-dark {
-    color: $body-bg
+    color: $body-bg;
 }
 
 //
