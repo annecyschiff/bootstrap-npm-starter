@@ -5,8 +5,8 @@
 		"../../scss/checkout.scss"
 	],
 	"sourcesContent": [
-		"//\n// Custom styles\n//\n\nbody {\n    // font-size: 2em;\n  }\n  \n  // Style Bootstrap icons\n  .bi {\n    fill: currentColor;\n  }\n  "
+		"//\n// Custom styles\n//\n\nbody {\n    // font-size: 2em;\n  }\n  \n  Style Bootstrap icons\n  .bi {\n    fill: currentColor;\n  }\n  "
 	],
 	"names": [],
-	"mappings": "AASE,AAAA,GAAG,AAAC,CACF,IAAI,CAAE,YAAY,CACnB"
+	"mappings": "AAQE,AAAA,KAAK,CAAC,SAAS,CAAC,KAAK,CACrB,GAAG,AAAC,CACF,IAAI,CAAE,YAAY,CACnB"
 }
