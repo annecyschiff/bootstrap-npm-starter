@@ -16,18 +16,20 @@ $body-bg: #9D4019;              // Light grey
 $body-text-colour: #F1ECDF;     // Dark colour for text
 $secondary-highlight: #F0D8B6;  //Secondary highlight colour
 
-
+body{ 
+    background-color: $body-text-colour
+}
 h1, h2, h3, h4, lead {
     color: $heading-text-colour
+
 }
 
-bgprimary {
-    color: $body-text-colour
-}
+
 
 bg-dark {
     color: $body-bg
 }
+
 //
 // Bring in Bootstrap
 //
