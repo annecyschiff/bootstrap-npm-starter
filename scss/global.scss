@@ -20,6 +20,14 @@ $secondary-highlight: #F0D8B6;  //Secondary highlight colour
 h1, h2, h3, h4, lead {
     color: $heading-text-colour
 }
+
+bgprimary {
+    color: $body-text-colour
+}
+
+bg-dark {
+    color: $body-bg
+}
 //
 // Bring in Bootstrap
 //
