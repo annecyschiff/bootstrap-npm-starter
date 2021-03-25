@@ -82,9 +82,15 @@ $body-text-colour: #F1ECDF;     // Dark colour for text
 $secondary-highlight: #F0D8B6;  //Secondary highlight colour
 
 body { 
-    background-color: $body-text-colour;
+    background-color: #F1ECDF;
 }
 
 h1, h2, h3, h4 {
     color: $heading-text-colour;
 }
+
+nav.navbar {
+    margin-bottom: 20px;
+    background-color:#9D4019;
+}
+
