@@ -5,8 +5,8 @@
 		"../../scss/navbar.scss"
 	],
 	"sourcesContent": [
-		"body {\n    padding-bottom: 20px;\n  }\n  \n  .navbar {\n    margin-bottom: 20px;\n    background-color:#9D4019;\n    // font-size: 32px;\n}"
+		"body {\n    padding-bottom: 20px;\n  }\n  \n  .navbar {\n    margin-bottom: 20px;\n    background-color:#9D4019;\n    // font-size: 32px;\n}\n\n\n.svg-logo {\n  width: 3em;\n  margin-right: 1em;\n}"
 	],
 	"names": [],
-	"mappings": "AAAA,AAAA,IAAI,AAAC,CACD,cAAc,CAAE,IAAI,CACrB,AAED,AAAA,OAAO,AAAC,CACN,aAAa,CAAE,IAAI,CACnB,gBAAgB,CAAC,OAAO,CAE3B"
+	"mappings": "AAAA,AAAA,IAAI,AAAC,CACD,cAAc,CAAE,IAAI,CACrB,AAED,AAAA,OAAO,AAAC,CACN,aAAa,CAAE,IAAI,CACnB,gBAAgB,CAAC,OAAO,CAE3B,AAGD,AAAA,SAAS,AAAC,CACR,KAAK,CAAE,GAAG,CACV,YAAY,CAAE,GAAG,CAClB"
 }
