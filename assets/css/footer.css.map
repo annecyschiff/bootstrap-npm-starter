@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "footer.css",
+	"sources": [
+		"../../scss/footer.scss"
+	],
+	"sourcesContent": [
+		"/* Sticky footer styles\n-------------------------------------------------- */\nhtml {\n    position: relative;\n    min-height: 100%;\n  }\n  body {\n    margin-bottom: 60px; /* Margin bottom by footer height */\n  }\n  .footer {\n    position: absolute;\n    bottom: 0;\n    width: 100%;\n    height: 60px; /* Set the fixed height of the footer here */\n    line-height: 60px; /* Vertically center the text there */\n    background-color: #f5f5f5;\n  }\n  \n  \n  /* Custom page CSS\n  -------------------------------------------------- */\n  /* Not required for template or sticky footer method. */\n  \n  .container {\n    width: auto;\n    max-width: 680px;\n    padding: 0 15px;\n  }"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,IAAI,AAAC,CACD,QAAQ,CAAE,QAAQ,CAClB,UAAU,CAAE,IAAI,CACjB,AACD,AAAA,IAAI,AAAC,CACH,aAAa,CAAE,IAAI,CACpB,AACD,AAAA,OAAO,AAAC,CACN,QAAQ,CAAE,QAAQ,CAClB,MAAM,CAAE,CAAC,CACT,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACZ,WAAW,CAAE,IAAI,CACjB,gBAAgB,CAAE,OAAO,CAC1B,AAOD,AAAA,UAAU,AAAC,CACT,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,KAAK,CAChB,OAAO,CAAE,MAAM,CAChB"
+}
